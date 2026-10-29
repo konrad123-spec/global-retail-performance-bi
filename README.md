@@ -10,6 +10,8 @@ An end-to-end Business Intelligence portfolio project connecting a **locally dev
 
 *An interactive walkthrough of the finished Power BI report.*
 
+[Watch or download the full Power BI report walkthrough (MP4)](Screenshots/Project_video.mp4)
+
 ## The business challenge
 
 Retail performance is more than sales growth. Decision-makers need to understand **profitability, budget deviations, pricing and volume effects, customer behavior, and currency movements**—and to explore what could happen when assumptions change.
